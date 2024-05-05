@@ -25,7 +25,7 @@ library.txt:
 
 ![image](https://github.com/pomogote/OOP_4Sem/blob/main/LR2/4.jpg)
 
-### Коментарии к коду [BookServlet](https://github.com/Egorrss/OOP/blob/main/LR2_Json/src/main/java/com/example/BookServlet.java)
+### Коментарии к коду [BookServlet](https://github.com/pomogote/OOP_4Sem/blob/main/LR2/src/main/java/com/example/BookServlet.java)
 1. Метод init. При запуске сервера в список List<Book> library выгружаются данные из БД (файла library.txt)
 
 2. Метод doGet загружает информацию о книгах из файла library.txt на сервере и отправляет ее в формате JSON клиенту для отображения на странице main.html.

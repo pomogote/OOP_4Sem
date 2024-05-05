@@ -1,4 +1,4 @@
-# [LR6(3 семестр)](https://github.com/pomogote/OOP_4Sem/tree/main/LR6)
+# [LR6](https://github.com/pomogote/OOP_4Sem/tree/main/LR6)
 
 Задание:
 Создать сервлет и взаимодействующие с ним пакеты Java-классов и HTML-документов. Готовое веб-приложение разместить на сервере Tomcat.

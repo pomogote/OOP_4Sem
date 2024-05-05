@@ -14,7 +14,6 @@ _Задание:
 
 В странице есть ссылка (О нас). При переходе высылается сервлет с ознакомительной информацией о компании.
 Сервлет написан в файле [AboutServlet](https://github.com/pomogote/OOP_4Sem/blob/main/LR1/src/main/java/com/example/lr1_about_us/AboutServlet.java)
-![image](https://user-images.githubusercontent.com/129698533/232346466-352eb986-daec-4b1d-8acf-877cc477dcb6.png)
 Если клинуть на кнопку "Поехали!" то вернешься на главную страницу [index.jsp](https://github.com/pomogote/OOP_4Sem/blob/main/LR1_about_us/src/main/webapp/index.jsp)
 
 

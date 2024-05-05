@@ -23,16 +23,16 @@ CRUD операции реализованы с помощью ajax запрос
 Для осуществления CRUD операций реализованы методы doPost, doGet, doPut, doDelete соответственно. 
 
 #### view.html:
-![image](https://github.com/pomogote/OOP_4Sem//blob/main/LR4/1.jpg)
+![image](https://github.com/pomogote/OOP_4Sem/blob/main/LR4/1.jpg)
 
 #### Удаление объекта:
-![image](https://github.com/pomogote/OOP_4Sem//blob/main/LR4/2.jpg)
+![image](https://github.com/pomogote/OOP_4Sem/blob/main/LR4/2.jpg)
 
 #### Пустая база данных:
-![image](https://github.com/pomogote/OOP_4Sem//blob/main/LR4/3.jpg)
+![image](https://github.com/pomogote/OOP_4Sem/blob/main/LR4/3.jpg)
 
 #### Добавление объекта:
-![image](https://github.com/pomogote/OOP_4Sem//blob/main/LR4/4.jpg)
+![image](https://github.com/pomogote/OOP_4Sem/blob/main/LR4/4.jpg)
 
 #### Изменение объекта:
 ![image](https://github.com/pomogote/OOP_4Sem//blob/main/LR4/5.jpg)

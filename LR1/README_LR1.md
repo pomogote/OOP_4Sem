@@ -5,12 +5,12 @@ _Задание:
 
 Главная страница написана в файле [index.jsp](https://github.com/pomogote/OOP_4Sem/blob/main/LR1/src/main/webapp/index.jsp)
 
-![image](https://user-images.githubusercontent.com/129698533/232346267-9397123b-be54-479b-88fb-58accae6e5d0.png)
+![image](https://github.com/pomogote/OOP_4Sem/blob/main/LR1/1.jpg)
 
 Если кликнуть на кнопку "Поехали!" то выполнится прокрутка до следующей секции.
-![image](https://github.com/pomogote/OOP_4Sem/blob/main/LR1/1.jpg)
-![image](https://user-images.githubusercontent.com/129698533/232346411-292b0c2c-21d7-4b54-a7e4-e22556e6c58c.png)
-![image](https://user-images.githubusercontent.com/129698533/232346441-86f37a53-80e1-4e25-96e4-20feec2c2016.png)
+![image](https://github.com/pomogote/OOP_4Sem/blob/main/LR1/2.jpg)
+![image](https://github.com/pomogote/OOP_4Sem/blob/main/LR1/3.jpg)
+![image](https://github.com/pomogote/OOP_4Sem/blob/main/LR1/4.jpg)
 ![image](https://user-images.githubusercontent.com/129698533/232346453-a3bc6e29-3117-4c8a-85a1-202833b193ca.png)
 ![image](https://user-images.githubusercontent.com/129698533/232346458-9be21773-a318-4ef5-bc61-ed0373caf0f4.png)
 

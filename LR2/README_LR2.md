@@ -1,4 +1,4 @@
-# [LR2](https://github.com/Egorrss/OOP/tree/main/LR2_Json)
+# [LR2](https://github.com/pomogote/OOP_4Sem/tree/main/LR2)
 
 ### Задание:
 >Разработать страницу отображающую список объектов, с хранением их на сервере в файле, 

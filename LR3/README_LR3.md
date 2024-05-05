@@ -23,12 +23,12 @@
 
 view.html:
 
-![image](https://github.com/pomogote/OOP_4Sem/LR3/1.jpg)
+![image](https://github.com/pomogote/OOP_4Sem/blob/main/LR3/1.jpg)
 
 добавление объекта:
 
-![image](https://github.com/pomogote/OOP_4Sem/LR3/2.jpg)
+![image](https://github.com/pomogote/OOP_4Sem/blob/main/LR3/2.jpg)
 
 library.txt:
 
-![image](https://github.com/pomogote/OOP_4Sem/LR3/3.jpg)
+![image](https://github.com/pomogote/OOP_4Sem/blob/main/LR3/3.jpg)

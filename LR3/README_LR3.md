@@ -1,4 +1,4 @@
-# [LR3](https://github.com/pomogote/OOP_4Sem/tree/main/LR3_Json_MVC)
+# [LR3](https://github.com/pomogote/OOP_4Sem/tree/main/LR3)
 
 ### Задание:
 >Разработать страницу отображающую список объектов, с хранением их на сервере в файле, передача данных осуществляется по JSON, 

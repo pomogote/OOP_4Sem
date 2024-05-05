@@ -16,7 +16,7 @@
 3. [Book.java](https://github.com/pomogote/OOP_4Sem/blob/main/LR2/src/main/java/com/example/Book.java) - создан для обработки объектов 
 
 main.html:
-![image](LR2/1.jpg)
+![image](https://github.com/pomogote/OOP_4Sem/LR2/1.jpg)
 
 library.txt:
 

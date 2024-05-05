@@ -11,12 +11,12 @@
 >- Записать полученную строку в файл на сервере
 
 ### Основные файлы
-1. [main.html](https://github.com/Egorrss/OOP/blob/main/LR2_Json/src/main/webapp/main.html) - страница с таблицей объектов и формой добавления новых объектов
-2. [BookServlet.java](https://github.com/Egorrss/OOP/blob/main/LR2_Json/src/main/java/com/example/BookServlet.java) - сервлет, в котором информация обрабатывается, записывается в файл и высылается клиенту
-3. [Book.java](https://github.com/Egorrss/OOP/blob/main/LR2_Json/src/main/java/com/example/Book.java) - создан для обработки объектов 
+1. [main.html](https://github.com/pomogote/OOP_4Sem/blob/main/LR2/src/main/webapp/main.html) - страница с таблицей объектов и формой добавления новых объектов
+2. [BookServlet.java](https://github.com/pomogote/OOP_4Sem/blob/main/LR2/src/main/java/com/example/BookServlet.java) - сервлет, в котором информация обрабатывается, записывается в файл и высылается клиенту
+3. [Book.java](https://github.com/pomogote/OOP_4Sem/blob/main/LR2/src/main/java/com/example/Book.java) - создан для обработки объектов 
 
 main.html:
-![image](https://github.com/Egorrss/OOP/assets/129698533/4836e9c4-ea5b-4a58-b899-1c564e860be8)
+![image](LR2/1.jpg)
 
 library.txt:
 

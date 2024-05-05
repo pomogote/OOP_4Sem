@@ -16,11 +16,14 @@
 3. [Book.java](https://github.com/pomogote/OOP_4Sem/blob/main/LR2/src/main/java/com/example/Book.java) - создан для обработки объектов 
 
 main.html:
-![image](https://github.com/pomogote/OOP_4Sem/LR2/1.jpg)
+![image](https://github.com/pomogote/OOP_4Sem/blob/main/LR2/1.jpg)
+Добавлние нового объекта:
+![image](https://github.com/pomogote/OOP_4Sem/blob/main/LR2/2.jpg)
+![image](https://github.com/pomogote/OOP_4Sem/blob/main/LR2/3.jpg)
 
 library.txt:
 
-![image](https://github.com/Egorrss/OOP/assets/129698533/81652063-cf6a-426d-b45c-2df50b938b22)
+![image](https://github.com/pomogote/OOP_4Sem/blob/main/LR2/4.jpg)
 
 ### Коментарии к коду [BookServlet](https://github.com/Egorrss/OOP/blob/main/LR2_Json/src/main/java/com/example/BookServlet.java)
 1. Метод init. При запуске сервера в список List<Book> library выгружаются данные из БД (файла library.txt)

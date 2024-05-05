@@ -35,4 +35,4 @@ CRUD операции реализованы с помощью ajax запрос
 ![image](https://github.com/pomogote/OOP_4Sem/blob/main/LR4/4.jpg)
 
 #### Изменение объекта:
-![image](https://github.com/pomogote/OOP_4Sem//blob/main/LR4/5.jpg)
+![image](https://github.com/pomogote/OOP_4Sem/blob/main/LR4/5.jpg)
